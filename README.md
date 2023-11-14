@@ -40,6 +40,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 10.Stop the program
 
 
+
 ## Program:
 ```
   import pandas as pd
@@ -77,8 +78,8 @@ accuracy
 
 dt.predict([[0.5, 0.8, 9, 260, 6, 0, 1, 2]])
 
-Developed By :L.Mahesh Muthu
-Register Number:212222040093
+Developed By :VISHWA VASU R
+Register Number:212222040183
 
 ```
 
